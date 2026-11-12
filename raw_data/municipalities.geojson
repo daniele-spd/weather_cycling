@@ -1,0 +1,1618 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-10-28T08:49:34Z",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/62505616",
+      "properties": {
+        "@id": "node/62505616",
+        "alt_name:de": "Sonders",
+        "alt_name:rm": "Sunder",
+        "capital": "6",
+        "ele": "307",
+        "loc_name": "Sundri",
+        "loc_name:pronunciation": "ˈsundrj",
+        "name": "Sondrio",
+        "name:el": "Σόντριο",
+        "name:fr": "Sondrio",
+        "name:it": "Sondrio",
+        "name:ko": "손드리오",
+        "name:la": "Sundrium",
+        "name:rm": "Sonder",
+        "name:ru": "Сондрио",
+        "name:zh": "桑治奧",
+        "old_name:de": "Sünders",
+        "place": "town",
+        "population": "19208",
+        "ref:ISTAT": "014061",
+        "wikidata": "Q6274",
+        "wikimedia_commons": "Category:Sondrio",
+        "wikipedia": "it:Sondrio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8716216,
+          46.1712084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516000",
+      "properties": {
+        "@id": "node/62516000",
+        "ele": "800",
+        "fixme": "Verificare se tutti gli abitanti di Rasura vivono nel capoluogo o se ci sono dei paesini montani con almeno 1 abitante stabile",
+        "loc_name": "Rèsüra",
+        "name": "Rasura",
+        "place": "village",
+        "population": "295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5529709,
+          46.1006655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516005",
+      "properties": {
+        "@id": "node/62516005",
+        "ele": "486",
+        "loc_name": "Pùnt",
+        "name": "Ponte in Valtellina",
+        "place": "village",
+        "population": "2192",
+        "population:date": "31/01/2025",
+        "source:population": "wikipedia",
+        "wikidata": "Q30029022",
+        "wikimedia_commons": "File:Ponte_-_panoramio_(9).jpg",
+        "wikipedia": "it:Ponte in Valtellina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9818815,
+          46.1767669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516017",
+      "properties": {
+        "@id": "node/62516017",
+        "ele": "564",
+        "loc_name": "Pendulasch",
+        "name": "Poggiridenti",
+        "place": "village",
+        "population": "1837",
+        "wikimedia_commons": "File:Panorama_Poggiridenti.JPG",
+        "wikipedia": "it:Poggiridenti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9262461,
+          46.1756616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516030",
+      "properties": {
+        "@id": "node/62516030",
+        "ele": "212",
+        "loc_name": "Nuàa",
+        "name": "Novate Mezzola",
+        "name:lmo": "Nuvaa",
+        "place": "village",
+        "population": "1415",
+        "wikidata": "Q30028258",
+        "wikipedia": "it:Novate Mezzola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4472208,
+          46.2204654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516038",
+      "properties": {
+        "@id": "node/62516038",
+        "ele": "262",
+        "loc_name": "Morbegn;Mürbegn",
+        "name": "Morbegno",
+        "old_name:de": "Morbend",
+        "place": "town",
+        "population": "10000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5696759,
+          46.1313095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516050",
+      "properties": {
+        "@id": "node/62516050",
+        "ele": "567",
+        "loc_name": "Muntàgna",
+        "name": "Montagna in Valtellina",
+        "old_name": "Vico Montania",
+        "place": "village",
+        "population": "2979",
+        "wikidata": "Q30027706",
+        "wikipedia": "ceb:Montagna in Valtellina (kapital sa munisipyo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.90295,
+          46.178495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516065",
+      "properties": {
+        "@id": "node/62516065",
+        "ele": "681",
+        "fixme": "Verificare se tutti gli abitanti di Mello vivono nel capoluogo o se ci sono dei paesini montani con almeno 1 abitante stabile",
+        "loc_name": "Mèll",
+        "name": "Mello",
+        "place": "village",
+        "population": "939",
+        "wikidata": "Q39701",
+        "wikipedia": "it:Mello (Italia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5479018,
+          46.1541948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516077",
+      "properties": {
+        "@id": "node/62516077",
+        "ele": "552",
+        "loc_name": "Maz",
+        "name": "Mazzo di Valtellina",
+        "place": "village",
+        "population": "1000",
+        "wikidata": "Q30027388"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2553936,
+          46.2582438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516095",
+      "properties": {
+        "@id": "node/62516095",
+        "ele": "211",
+        "fixme": "Verificare se tutti gli abitanti di Mantello vivono nel capoluogo o se ci sono dei paesini montani con almeno 1 abitante stabile",
+        "loc_name": "Mantèll",
+        "name": "Mantello",
+        "place": "village",
+        "population": "737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4885023,
+          46.1522359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516117",
+      "properties": {
+        "@id": "node/62516117",
+        "ele": "490",
+        "loc_name": "Busasgia",
+        "name": "Albosaggia",
+        "place": "village",
+        "population": "3000",
+        "wikidata": "Q30022100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8531698,
+          46.1472316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516132",
+      "properties": {
+        "@id": "node/62516132",
+        "gfoss_id": "1737",
+        "name": "Villa di Tirano",
+        "place": "village",
+        "population": "2968",
+        "source": "geodati.gfoss.it"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.133854,
+          46.203898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516212",
+      "properties": {
+        "@id": "node/62516212",
+        "ele": "352",
+        "loc_name": "Prada Campustazz;Pràda Campürtasc",
+        "name": "Prata Camportaccio",
+        "place": "village",
+        "population": "1224",
+        "wikidata": "Q30029147",
+        "wikipedia": "it:Prata Camportaccio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3980658,
+          46.3074593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516227",
+      "properties": {
+        "@id": "node/62516227",
+        "ele": "304",
+        "loc_name": "Piatèda",
+        "name": "Piateda",
+        "place": "village",
+        "population": "2000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.941662,
+          46.1593008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516251",
+      "properties": {
+        "@id": "node/62516251",
+        "ele": "274",
+        "loc_name": "Mès",
+        "name": "Mese",
+        "name:la": "Mexe;Mesis",
+        "old_name": "Ultriro",
+        "place": "village",
+        "population": "1800",
+        "wikidata": "Q30027481",
+        "wikimedia_commons": "Category:Mese (Italy)",
+        "wikipedia": "it:Mese (Italia)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3803256,
+          46.3052737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516300",
+      "properties": {
+        "@id": "node/62516300",
+        "alt_name": "Castione Andevenno",
+        "ele": "468",
+        "loc_name": "Castiùn",
+        "name": "Castione",
+        "place": "village",
+        "population": "1553",
+        "wikidata": "Q30024382",
+        "wikipedia": "it:Castione Andevenno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7992961,
+          46.1734386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516338",
+      "properties": {
+        "@id": "node/62516338",
+        "ele": "520",
+        "loc_name": "Tresif",
+        "name": "Tresivio",
+        "place": "village",
+        "population": "1943",
+        "wikidata": "Q30031304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9445761,
+          46.1747608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516349",
+      "properties": {
+        "@id": "node/62516349",
+        "ele": "950",
+        "loc_name": "Albarii",
+        "name": "Albaredo per San Marco",
+        "place": "village",
+        "population": "287"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5901791,
+          46.1027328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516374",
+      "properties": {
+        "@id": "node/62516374",
+        "ele": "795",
+        "loc_name": "La Tur;La Tor",
+        "name": "Torre di Santa Maria",
+        "place": "village",
+        "population": "700",
+        "wikidata": "Q30031195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.851604,
+          46.2335291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516394",
+      "properties": {
+        "@id": "node/62516394",
+        "name": "Sernio",
+        "place": "village",
+        "population": "450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.203535,
+          46.2236414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516411",
+      "properties": {
+        "@id": "node/62516411",
+        "ele": "851",
+        "name": "Teglio",
+        "name:de": "Tell",
+        "place": "village",
+        "population": "1158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0669066,
+          46.1722169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516424",
+      "properties": {
+        "@id": "node/62516424",
+        "ele": "515",
+        "loc_name": "Lùar",
+        "name": "Lovero",
+        "place": "village",
+        "population": "638",
+        "wikidata": "Q30026745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2306263,
+          46.230957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516443",
+      "properties": {
+        "@id": "node/62516443",
+        "ele": "983",
+        "loc_name": "Lànsada",
+        "name": "Lanzada",
+        "place": "village",
+        "population": "1200",
+        "wikidata": "Q30026494",
+        "wikipedia": "it:Lanzada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8724176,
+          46.2695995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516486",
+      "properties": {
+        "@id": "node/62516486",
+        "ele": "285",
+        "loc_name": "Füsíni",
+        "name": "Fusine",
+        "place": "village",
+        "population": "561",
+        "wikidata": "Q30025928",
+        "wikipedia": "it:Fusine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7490975,
+          46.1490413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516519",
+      "properties": {
+        "@id": "node/62516519",
+        "ele": "218",
+        "loc_name": "Delébi",
+        "name": "Delebio",
+        "place": "village",
+        "population": "2996"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.46064,
+          46.13609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516539",
+      "properties": {
+        "@id": "node/62516539",
+        "ele": "656",
+        "loc_name": "Gròs",
+        "name": "Grosio",
+        "place": "village",
+        "population": "4000",
+        "wikidata": "Q40653",
+        "wikipedia": "it:Grosio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2745156,
+          46.2989301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516559",
+      "properties": {
+        "@id": "node/62516559",
+        "ele": "283",
+        "loc_name": "Gùrduna",
+        "name": "Gordona",
+        "name:lt": "Gardona",
+        "place": "village",
+        "population": "1500",
+        "wikidata": "Q39391",
+        "wikipedia": "it:Gordona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3681235,
+          46.2913945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516575",
+      "properties": {
+        "@id": "node/62516575",
+        "ele": "960",
+        "loc_name": "Gesa",
+        "name": "Chiesa in Valmalenco",
+        "place": "village",
+        "population": "2000",
+        "short_name": "Chiesa Valmalenco",
+        "wikidata": "Q30024684",
+        "wikimedia_commons": "File:Chiesa_in_Valmalenco_-_panoramio.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8497054,
+          46.2641201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516612",
+      "properties": {
+        "@id": "node/62516612",
+        "ele": "568",
+        "loc_name": "Dàsc",
+        "name": "Dazio",
+        "place": "village",
+        "population": "460",
+        "wikidata": "Q30025391",
+        "wikipedia": "it:Dazio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6014755,
+          46.1604398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516627",
+      "properties": {
+        "@id": "node/62516627",
+        "ele": "302",
+        "loc_name": "Culurìna",
+        "name": "Colorina",
+        "place": "village",
+        "population": "750",
+        "wikidata": "Q30024983"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7328367,
+          46.1510725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516631",
+      "properties": {
+        "@id": "node/62516631",
+        "ele": "287",
+        "loc_name": "Scedrasch",
+        "name": "Cedrasco",
+        "place": "village",
+        "population": "433",
+        "wikidata": "Q30024473",
+        "wikipedia": "ceb:Cedrasco (kapital sa munisipyo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.767444,
+          46.1489585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516641",
+      "properties": {
+        "@id": "node/62516641",
+        "ele": "664",
+        "loc_name": "Castèl",
+        "name": "Castello dell'Acqua",
+        "place": "village",
+        "population": "67",
+        "wikidata": "Q39150",
+        "wikipedia": "it:Castello dell'Acqua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0132988,
+          46.1453777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516647",
+      "properties": {
+        "@id": "node/62516647",
+        "capital": "7",
+        "ele": "333",
+        "loc_name": "Ciavéna",
+        "name": "Chiavenna",
+        "name:de": "Cläven",
+        "name:la": "Clavenna",
+        "name:lmo": "Ciavenna",
+        "name:rm": "Clavenna",
+        "name:uk": "К'явенна",
+        "old_name:de": "Kleven",
+        "place": "town",
+        "population": "7000",
+        "wikidata": "Q40131",
+        "wikimedia_commons": "Category:Chiavenna",
+        "wikipedia": "it:Chiavenna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4007426,
+          46.3200662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516656",
+      "properties": {
+        "@id": "node/62516656",
+        "ele": "487",
+        "loc_name": "Scerscìn;Sciarscìn",
+        "name": "Cercino",
+        "place": "village",
+        "population": "137",
+        "wikidata": "Q30024547",
+        "wikipedia": "it:Cercino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5072841,
+          46.1577291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516663",
+      "properties": {
+        "@id": "node/62516663",
+        "ele": "266",
+        "fixme": "Verificare se tutti gli abitanti di Ardenno vivono nel capoluogo o ci sono dei paesini montani con almeno 1 abitante stabile",
+        "loc_name": "Ardenn",
+        "name": "Ardenno",
+        "place": "village",
+        "population": "3235"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6519439,
+          46.1715712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516671",
+      "properties": {
+        "@id": "node/62516671",
+        "ele": "444",
+        "loc_name": "Bianzùn",
+        "name": "Bianzone",
+        "place": "village",
+        "population": "1220",
+        "wikidata": "Q30022820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.109354,
+          46.188197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516685",
+      "properties": {
+        "@id": "node/62516685",
+        "ele": "335",
+        "loc_name": "Cajööl",
+        "name": "Caiolo",
+        "place": "village",
+        "population": "956",
+        "wikidata": "Q30023319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.814548,
+          46.149994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516698",
+      "properties": {
+        "@id": "node/62516698",
+        "loc_name": "Candulscin",
+        "name": "Campodolcino",
+        "name:de": "Gampolschin",
+        "place": "village",
+        "population": "800",
+        "wikidata": "Q30023510",
+        "wikipedia": "it:Campodolcino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.354798,
+          46.4026957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516704",
+      "properties": {
+        "@id": "node/62516704",
+        "alt_name": "Vercilia",
+        "ele": "200",
+        "loc_name": "Varsceja",
+        "name": "Verceia",
+        "name:la": "Verceium",
+        "place": "village",
+        "population": "1060",
+        "wikidata": "Q30031619",
+        "wikimedia_commons": "Category:Verceia",
+        "wikipedia": "it:Verceia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4517534,
+          46.1978642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516721",
+      "properties": {
+        "@id": "node/62516721",
+        "ele": "549",
+        "name": "Vervio",
+        "place": "village",
+        "population": "95"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2403542,
+          46.2530204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516727",
+      "properties": {
+        "@id": "node/62516727",
+        "ele": "229",
+        "loc_name": "Andel",
+        "name": "Andalo Valtellino",
+        "place": "village",
+        "population": "585",
+        "population:date": "2020",
+        "wikidata": "Q30022212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4744415,
+          46.1324752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516731",
+      "properties": {
+        "@id": "node/62516731",
+        "ele": "1181",
+        "loc_name": "L'Abrìga;L'Avrìga;La Vrìga",
+        "name": "Aprica",
+        "place": "village",
+        "population": "1400",
+        "wikidata": "Q30022273",
+        "wikimedia_commons": "File:Panoramica_Aprica.jpg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.152581,
+          46.1540136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516735",
+      "properties": {
+        "@id": "node/62516735",
+        "ele": "285",
+        "loc_name": "Talamona",
+        "loc_name:pronunciation": "talaˈmu:na",
+        "name": "Talamona",
+        "place": "village",
+        "population": "4615",
+        "wikidata": "Q30030995",
+        "wikimedia_commons": "Category:Talamona",
+        "wikipedia": "it:Talamona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6105308,
+          46.1360901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516739",
+      "properties": {
+        "@id": "node/62516739",
+        "ele": "1210",
+        "loc_name": "Tàrten",
+        "name": "Tartano",
+        "place": "village",
+        "population": "21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6799409,
+          46.106057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516743",
+      "properties": {
+        "@id": "node/62516743",
+        "alt_name": "Tovo Sant'Agata",
+        "ele": "531",
+        "loc_name": "Tuf",
+        "name": "Tovo di Sant'Agata",
+        "place": "village",
+        "population": "569",
+        "wikidata": "Q39808",
+        "wikipedia": "it:Tovo di Sant'Agata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2450727,
+          46.2450504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516746",
+      "properties": {
+        "@id": "node/62516746",
+        "ele": "252",
+        "loc_name": "Traùna",
+        "name": "Traona",
+        "place": "village",
+        "population": "2441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.525796,
+          46.1496199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516747",
+      "properties": {
+        "@id": "node/62516747",
+        "ele": "216",
+        "loc_name": "Rùgul",
+        "name": "Rogolo",
+        "place": "village",
+        "population": "501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4873167,
+          46.1357463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516749",
+      "properties": {
+        "@id": "node/62516749",
+        "ele": "520",
+        "loc_name": "San Giacùm",
+        "loc_name:en": "Scuaföia",
+        "name": "San Giacomo Filippo",
+        "name:la": "Fanum Sanctorum Iacobi et Philippi;Fani Sanctorum Iacobi",
+        "place": "village",
+        "population": "199",
+        "wikidata": "Q30029909",
+        "wikipedia": "it:San Giacomo Filippo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.370685,
+          46.3374131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516751",
+      "properties": {
+        "@id": "node/62516751",
+        "ele": "940",
+        "loc_name": "Sondel",
+        "name": "Sondalo",
+        "place": "village",
+        "population": "2642",
+        "wikidata": "Q30030801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3248633,
+          46.331392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516755",
+      "properties": {
+        "@id": "node/62516755",
+        "ele": "754",
+        "name": "Spriana",
+        "place": "village",
+        "population": "79",
+        "wikidata": "Q40703",
+        "wikipedia": "it:Spriana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8648304,
+          46.2197715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516931",
+      "properties": {
+        "@id": "node/62516931",
+        "ele": "504",
+        "loc_name": "Scin",
+        "name": "Cino",
+        "place": "village",
+        "population": "341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4864468,
+          46.1579183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516936",
+      "properties": {
+        "@id": "node/62516936",
+        "ele": "610",
+        "loc_name": "Grosùt;Grosót",
+        "name": "Grosotto",
+        "place": "village",
+        "population": "1600",
+        "wikidata": "Q40889",
+        "wikipedia": "it:Grosotto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2584412,
+          46.2798623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516940",
+      "properties": {
+        "@id": "node/62516940",
+        "ele": "1050",
+        "loc_name": "Giaröla;Piazza",
+        "name": "Gerola Alta",
+        "place": "village",
+        "population": "100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5508018,
+          46.0593815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516943",
+      "properties": {
+        "@id": "node/62516943",
+        "ele": "1032",
+        "loc_name": "Pedesina",
+        "name": "Pedesina",
+        "place": "village",
+        "population": "34",
+        "population:date": "2020",
+        "wikidata": "Q39060",
+        "wikimedia_commons": "File:Pedesina.jpg",
+        "wikipedia": "it:Pedesina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5496877,
+          46.082308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516950",
+      "properties": {
+        "@id": "node/62516950",
+        "ele": "1816",
+        "loc_name": "Livígn",
+        "name": "Livigno",
+        "name:lt": "Livinjas",
+        "name:rm": "Luin da Buorm",
+        "old_name:de": "Luwin",
+        "place": "town",
+        "population": "6000",
+        "website": "https://www.livigno.eu/",
+        "wikidata": "Q40871",
+        "wikimedia_commons": "File:Livigno1_wiki.jpg",
+        "wikipedia": "it:Livigno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1359928,
+          46.5381734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516954",
+      "properties": {
+        "@id": "node/62516954",
+        "ele": "586",
+        "loc_name": "Postalés",
+        "name": "Postalesio",
+        "place": "village",
+        "population": "609",
+        "wikidata": "Q30029107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.775447,
+          46.174094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516956",
+      "properties": {
+        "@id": "node/62516956",
+        "ele": "215",
+        "loc_name": "Piantee",
+        "name": "Piantedo",
+        "place": "village",
+        "population": "1189"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.429947,
+          46.1344713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516967",
+      "properties": {
+        "@id": "node/62516967",
+        "ele": "370",
+        "loc_name": "Berbènn",
+        "name": "Berbenno di Valtellina",
+        "place": "village",
+        "population": "4000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7434178,
+          46.1689955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516976",
+      "properties": {
+        "@id": "node/62516976",
+        "ele": "800",
+        "loc_name": "Béma",
+        "name": "Bema",
+        "place": "village",
+        "population": "115",
+        "wikidata": "Q30022736"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5643997,
+          46.1080922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516980",
+      "properties": {
+        "@id": "node/62516980",
+        "ele": "577",
+        "loc_name": "Böi",
+        "name": "Buglio in Monte",
+        "place": "village",
+        "population": "720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6765266,
+          46.1830555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516985",
+      "properties": {
+        "@id": "node/62516985",
+        "ele": "1225",
+        "name": "Bormio",
+        "name:de": "Worms im Veltlin",
+        "name:rm": "Buorm",
+        "place": "town",
+        "population": "4096",
+        "wikidata": "Q40516",
+        "wikipedia": "it:Bormio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3774659,
+          46.4676705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62516993",
+      "properties": {
+        "@id": "node/62516993",
+        "ele": "389",
+        "loc_name": "Ciǜür",
+        "name": "Chiuro",
+        "place": "village",
+        "population": "2439",
+        "population:date": "2025-07-31",
+        "source:population": "wikipedia",
+        "wikidata": "Q30024703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9893554,
+          46.1708212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/62517000",
+      "properties": {
+        "@id": "node/62517000",
+        "ele": "1098",
+        "loc_name": "Caspoeugg",
+        "name": "Caspoggio",
+        "place": "village",
+        "population": "1000",
+        "wikidata": "Q40290",
+        "wikipedia": "it:Caspoggio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.863925,
+          46.2645945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/443354952",
+      "properties": {
+        "@id": "node/443354952",
+        "ele": "1339",
+        "name": "San Nicolò",
+        "place": "village",
+        "wikidata": "Q18494711"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4106,
+          46.4626503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/605877451",
+      "properties": {
+        "@id": "node/605877451",
+        "ele": "1120",
+        "name": "Cepina",
+        "place": "village",
+        "population": "1670",
+        "source": "CTR al tratto",
+        "wikidata": "Q13100637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3559643,
+          46.4278426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/866680668",
+      "properties": {
+        "@id": "node/866680668",
+        "ele": "1350",
+        "loc_name": "Isolècia",
+        "name": "Isolaccia",
+        "place": "village",
+        "population": "1147",
+        "wikidata": "Q1992830",
+        "wikipedia": "it:Isolaccia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2951485,
+          46.4891065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1603301352",
+      "properties": {
+        "@id": "node/1603301352",
+        "ele": "557",
+        "istat_id": "1402810002",
+        "name": "San Carlo",
+        "place": "village",
+        "population": "115",
+        "wikidata": "Q33478864"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9062065,
+          46.1529937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1765382313",
+      "properties": {
+        "@id": "node/1765382313",
+        "ele": "1400",
+        "loc_name": "Pianesc",
+        "name": "Pianazzo",
+        "place": "hamlet",
+        "population": "72",
+        "url": "http://italia.indettaglio.it/ita/lombardia/sondrio_madesimo_pianazzo.html",
+        "wikidata": "Q18494544"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3438722,
+          46.4281548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1894387389",
+      "properties": {
+        "@id": "node/1894387389",
+        "ele": "787",
+        "name": "Cataeggio",
+        "place": "village",
+        "population": "611",
+        "wikidata": "Q18494139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6370642,
+          46.2126644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2145410505",
+      "properties": {
+        "@id": "node/2145410505",
+        "alt_name": "Villa",
+        "ele": "640",
+        "loc_name": "Vila de Ciàvena",
+        "name": "Villa di Chiavenna",
+        "old_name": "Villa di Piuro",
+        "place": "village",
+        "population": "1000",
+        "wikidata": "Q30031769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4894492,
+          46.3310232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2650707775",
+      "properties": {
+        "@id": "node/2650707775",
+        "alt_name:de": "Thiran",
+        "ele": "441",
+        "loc_name": "Tiràn",
+        "name": "Tirano",
+        "name:de": "Tirano",
+        "name:rm": "Tiraun",
+        "name:ru": "Тирано",
+        "name:uk": "Тірано",
+        "place": "town",
+        "population": "8000",
+        "wikidata": "Q40868",
+        "wikipedia": "it:Tirano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1731777,
+          46.2156719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3114727634",
+      "properties": {
+        "@id": "node/3114727634",
+        "ele": "223",
+        "loc_name": "Dübìgn",
+        "name": "Dubino",
+        "place": "village",
+        "population": "1000",
+        "wikidata": "Q30025511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4613327,
+          46.15342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3568586197",
+      "properties": {
+        "@id": "node/3568586197",
+        "alt_name": "Prosto di Piuro",
+        "ele": "380",
+        "loc_name": "Próšt",
+        "name": "Prosto",
+        "place": "village",
+        "population": "1000",
+        "wikidata": "Q18494651"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4207312,
+          46.3296814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3890762336",
+      "properties": {
+        "@id": "node/3890762336",
+        "ele": "213",
+        "name": "Era",
+        "place": "village",
+        "population": "889",
+        "wikidata": "Q18494261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3939402,
+          46.2429191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4236657160",
+      "properties": {
+        "@id": "node/4236657160",
+        "name": "Regoledo",
+        "place": "village",
+        "wikidata": "Q18494658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5518313,
+          46.1299085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4528229038",
+      "properties": {
+        "@id": "node/4528229038",
+        "ele": "730",
+        "name": "Serone",
+        "place": "hamlet",
+        "population": "75",
+        "population:date": "2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5816982,
+          46.1564026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8222523703",
+      "properties": {
+        "@id": "node/8222523703",
+        "ele": "285",
+        "name": "Sirta",
+        "place": "village",
+        "population": "438",
+        "wikidata": "Q18494757",
+        "wikimedia_commons": "File:2007-422-DSCN2132-Sirta-Forcola_Valtellina+Chiesa-S-Giuseppe.jpg",
+        "wikipedia": "ceb:Sirta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6621614,
+          46.1574765
+        ]
+      }
+    }
+  ]
+}
