@@ -131,14 +131,14 @@ An overview of the project and the corresponding results is in "ride_the_data.pp
 Python 3.12.12
 
 ## Installation
-Clona the repository:
-
-git clone https://github.com/daniele-spd/weather_cycling.git
-
-Navigate to the project directory: cd REPOSITORY
-
-(Opzional but recommended) Create a virtual environment: python -m venv venv
-
-Activate the environment: Windows: venv\Scripts\activate Linux / macOS: source venv/bin/activate
-
-Install the dependencies: pip install -r requirements.txt
+* Clone the repository: 
+    * git clone https://github.com/daniele-spd/weather_cycling.git
+* Navigate to the project directory: 
+    * cd REPOSITORY
+* (Optional but recommended) Create a virtual environment: 
+    * python -m venv venv
+* Activate the environment: 
+    * Windows: venv\Scripts\activate 
+    * Linux / macOS: source venv/bin/activate
+* Install the dependencies: 
+    * pip install -r requirements.txt
