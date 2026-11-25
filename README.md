@@ -126,3 +126,19 @@ The meaning of weather raw variables is in "documentation/API parameters.xlsx".
 User-oriented Power BI report is "report.pbix".
 
 An overview of the project and the corresponding results is in "ride_the_data.pptx".
+
+## Requirements
+Python 3.12.12
+
+## Installation
+Clona the repository:
+
+git clone https://github.com/daniele-spd/weather_cycling.git
+
+Navigate to the project directory: cd REPOSITORY
+
+(Opzional but recommended) Create a virtual environment: python -m venv venv
+
+Activate the environment: Windows: venv\Scripts\activate Linux / macOS: source venv/bin/activate
+
+Install the dependencies: pip install -r requirements.txt
